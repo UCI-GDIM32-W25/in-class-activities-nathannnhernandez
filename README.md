@@ -1,13 +1,22 @@
 # GDIM32 In Class Activities
-## Instructions
-Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
+## Activity 1
+- Get started on the minigame asap after it is assigned
 
+## Activity 2
+- Q1: 10
 
-Hit enter TWICE to create a new line.
+- Q2: 2
+  
+- Q3: prints "hello world" every frame
+  
+- Q4: Monobehaviour
+  
+- Q5: "x = 10"
+  
+- Q6: argument and its purpose is to fulfill a required parameter in a function
+  
+- Q7: Transform is calling a class and not a variable
+  
+- Q8: replace Transform with _playerTransform
 
-
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
-
-
-Remove all placeholder text in order to get full credit for README file formatting.
+## Activity 3
