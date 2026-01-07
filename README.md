@@ -21,3 +21,4 @@
 - Q8: replace Transform with _playerTransform
 
 ## Activity 3
+https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/edit?usp=sharing
