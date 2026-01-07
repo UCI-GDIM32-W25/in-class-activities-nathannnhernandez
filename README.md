@@ -2,7 +2,6 @@
 ## Activity 1
 - Get started on the minigame asap after it is assigned
 
-
 ## Activity 2
 - Q1: 10
 
@@ -21,4 +20,5 @@
 - Q8: replace Transform with _playerTransform
 
 ## Activity 3
-https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/edit?usp=sharing
+[MG1 Breakdown Doc
+]([url](https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/edit?usp=sharing))
