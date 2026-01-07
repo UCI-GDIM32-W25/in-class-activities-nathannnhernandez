@@ -2,6 +2,7 @@
 ## Activity 1
 - Get started on the minigame asap after it is assigned
 
+
 ## Activity 2
 - Q1: 10
 
