@@ -28,3 +28,5 @@
 ## W2
 ### Activity 1
 ![image](https://github.com/user-attachments/assets/925cefb8-75c1-4494-b76c-d0bebd2c8f27)
+### Activity 2
+Created the player movement, made coins move, created space, instantiated coins.
