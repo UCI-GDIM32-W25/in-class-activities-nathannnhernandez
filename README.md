@@ -1,5 +1,6 @@
 # GDIM32 In Class Activities
-##W1
+
+## W1
 ### Activity 1
 - Get started on the minigame asap after it is assigned
 
@@ -24,4 +25,4 @@
 [[MG1 Breakdown Table 8
 ]([url](https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/edit?usp=sharing))](https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/edit?usp=sharing)
 
-##W2
+## W2
