@@ -30,4 +30,6 @@
 ![image](https://github.com/user-attachments/assets/925cefb8-75c1-4494-b76c-d0bebd2c8f27)
 ### Activity 2
 Created the player movement, made coins move, created space, instantiated coins.
-.vscode/settings.json
+
+[Commit Link
+]([url](https://github.com/nathannnhernandez/mg2-nathannnhernandez/commit/161804af2f6154b28f86d142dfa4297962ff9648))
