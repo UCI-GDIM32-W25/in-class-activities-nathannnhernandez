@@ -34,7 +34,8 @@ Created the player movement, made coins move, created space, instantiated coins.
 ## W3
 ### Activity 0
 Carl
-### Activity 1
+### Activity 3
+![1](https://github.com/user-attachments/assets/c7cb6b6a-a2e4-4673-bed4-aabff9a79ceb)
 
 
 [Commit Link
