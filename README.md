@@ -33,7 +33,7 @@ Created the player movement, made coins move, created space, instantiated coins.
 
 ## W3
 ### Activity 0
-Kai and Marcelo (the guy I was working with rotated)
+Carl
 ### Activity 1
 
 
