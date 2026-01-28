@@ -38,6 +38,12 @@ Carl
 ![1](https://github.com/user-attachments/assets/c7cb6b6a-a2e4-4673-bed4-aabff9a79ceb)
 
 
+##W4
+### Activity 0
+Kai
+
+
+
 [Commit Link
 ]([url](https://github.com/nathannnhernandez/mg2-nathannnhernandez/commit/161804af2f6154b28f86d142dfa4297962ff9648))
 https://github.com/nathannnhernandez/mg2-nathannnhernandez/commit/161804af2f6154b28f86d142dfa4297962ff9648
