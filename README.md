@@ -42,7 +42,7 @@ Carl
 ### Activity 0
 Kai
 ### Activity 1
-The locator objects should be destroyed.
+The locator objects should be destroyed, so that only one singleton remains
 
 
 
