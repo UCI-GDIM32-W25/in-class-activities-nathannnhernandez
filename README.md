@@ -47,6 +47,8 @@ Carl
 Kai
 ### Activity 1
 The locator objects should be destroyed, so that only one singleton remains
+### Activity 2
+![IMG_0080](https://github.com/user-attachments/assets/c0368fc9-8572-4c8c-b6ad-9a4e3fcb8785)
 
 
 
