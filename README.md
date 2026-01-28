@@ -22,14 +22,18 @@
 - Q8: replace Transform with _playerTransform
 
 ### Activity 3
-[[MG1 Breakdown Table 8
-]([url](https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/edit?usp=sharing))](https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/edit?usp=sharing)
+[MG1 Breakdown Table 8](https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/edit?usp=sharing)
+
 
 ## W2
 ### Activity 1
 ![image](https://github.com/user-attachments/assets/925cefb8-75c1-4494-b76c-d0bebd2c8f27)
 ### Activity 2
 Created the player movement, made coins move, created space, instantiated coins.
+
+[Commit Link
+](https://github.com/nathannnhernandez/mg2-nathannnhernandez/commit/161804af2f6154b28f86d142dfa4297962ff9648)
+
 
 ## W3
 ### Activity 0
@@ -42,10 +46,10 @@ Carl
 ### Activity 0
 Kai
 ### Activity 1
-The locator objects should be destroyed.
+The locator objects should be destroyed, so that only one singleton remains
+### Activity 2
+![IMG_0080](https://github.com/user-attachments/assets/c0368fc9-8572-4c8c-b6ad-9a4e3fcb8785)
 
 
 
-[Commit Link
-]([url](https://github.com/nathannnhernandez/mg2-nathannnhernandez/commit/161804af2f6154b28f86d142dfa4297962ff9648))
-https://github.com/nathannnhernandez/mg2-nathannnhernandez/commit/161804af2f6154b28f86d142dfa4297962ff9648
+
