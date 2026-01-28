@@ -41,6 +41,8 @@ Carl
 ## W4
 ### Activity 0
 Kai
+### Activity 1
+The locator objects should be destroyed.
 
 
 
