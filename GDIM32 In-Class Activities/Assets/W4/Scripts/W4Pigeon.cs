@@ -13,6 +13,7 @@ public class W4Pigeon : MonoBehaviour
 
     // HERE, add an event to tell other objects that the pigeon coo'd!
     public delegate void PigeonCoo();
+    public static event PigeonCoo OnPigeonCoo;
     // don't change the code in this method!
     void Update()
     {
@@ -44,6 +45,7 @@ public class W4Pigeon : MonoBehaviour
 
         // tell VFX
         _vfx.HandlePigeonCoo();
+        
 
         
     }

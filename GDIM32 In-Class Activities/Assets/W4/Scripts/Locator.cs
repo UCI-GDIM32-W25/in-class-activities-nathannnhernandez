@@ -2,14 +2,8 @@ using UnityEngine;
 
 public class Locator : MonoBehaviour
 {
-    public static Locator Instance
-    {
-        get; private set;
-    }
-    public static W4Pigeon player
-    {
-        get; private set;
-    }   
+    public static Locator Instance { get; private set; }
+    public static W4Pigeon player { get; private set; }   
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -18,7 +12,9 @@ public class Locator : MonoBehaviour
             return;
         }
         Instance = this;
+        
+        GameObject playerObj = GameObject.FindWithTag("Player");
+        player = playerObj.GetComponent<W4Pigeon>();
     }
-    GameObject playerObj = GameObject.FindWithTag("Player");
-    player = playerObj.GetComponent<W4Pigeon>();
+
 }
