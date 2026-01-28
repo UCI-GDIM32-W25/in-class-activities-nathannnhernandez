@@ -49,6 +49,9 @@ Kai
 The locator objects should be destroyed, so that only one singleton remains
 ### Activity 2
 ![IMG_0080](https://github.com/user-attachments/assets/c0368fc9-8572-4c8c-b6ad-9a4e3fcb8785)
+### Activity 3
+[Commit link...I wasnt able to actually do anything becaause I was having some troubles but I was able to create the project](https://github.com/UCI-GDIM32-W25/HW4/compare/main...nathannnhernandez:HW4:main)
+
 
 
 
