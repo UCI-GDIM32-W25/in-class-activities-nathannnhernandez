@@ -32,8 +32,8 @@
 Created the player movement, made coins move, created space, instantiated coins.
 
 [Commit Link
-]([url](https://github.com/nathannnhernandez/mg2-nathannnhernandez/commit/161804af2f6154b28f86d142dfa4297962ff9648))
-https://github.com/nathannnhernandez/mg2-nathannnhernandez/commit/161804af2f6154b28f86d142dfa4297962ff9648
+](https://github.com/nathannnhernandez/mg2-nathannnhernandez/commit/161804af2f6154b28f86d142dfa4297962ff9648)
+
 
 ## W3
 ### Activity 0
