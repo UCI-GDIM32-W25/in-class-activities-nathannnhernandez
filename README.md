@@ -22,8 +22,8 @@
 - Q8: replace Transform with _playerTransform
 
 ### Activity 3
-[MG1 Breakdown Table 8
-]([url](https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/edit?usp=sharing))](https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/edit?usp=sharing)
+[MG1 Breakdown Table 8](https://docs.google.com/document/d/1UQTlTMUv7OoSRXdfaYn3iWpCgYABL-kNvOKmFYxCaUk/edit?usp=sharing)
+
 
 ## W2
 ### Activity 1
