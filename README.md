@@ -117,3 +117,20 @@ found the mechanic to be difficult yet enjoyable. While the movement mechanic is
 Around 50% of the playtesters' jumps resulted in their death, but they gradually decreased their margin of error. They encountered a bug where
 the player can indefinitely suspend themselves in midair if colliding with the side of a platform. Playtesters suggested that the player should be 
 able to move while falling -- it would make the game more forgiving.
+
+# I recovered my account, but my W9 devlog isn't here :(
+
+## W10
+### Activity 1
+Kai, Nate, Celo
+
+### Activity 2
+Celo: figured out easily how to consume food. The bar made it helpful to visually see the charge of the jump. Had trouble making it to islands at the beginning, sometimes slipped off of the islands. Had trouble going down the tower, kept dying to fall damage, possibly make the tower a little easier. Add lighting, trees make the shade too dark all around, add possible lanterns. Camera fixes, character moves right before camera does.
+
+### Activity 3
+[Trello Board](https://trello.com/b/SrpWWxTm/in-too-deep)
+
+### Activity 4
+[Commit Link](https://github.com/Nedajist/GDIM32-Final/commit/09185f45d671998319fee2b9bbd6d56f0d401143)
+
+Finished up the rest of the level. Took advantage of coffee + double jump mechanics. BIG slope obstacle. Altered tower slightly.
